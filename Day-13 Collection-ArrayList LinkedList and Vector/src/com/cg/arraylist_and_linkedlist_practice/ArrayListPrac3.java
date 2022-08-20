@@ -19,6 +19,7 @@ public class ArrayListPrac3 {
 		System.out.println(l.get(4));
 		l.set(2, 0.3);
 		System.out.println(l);
+		
 
 	}
 
